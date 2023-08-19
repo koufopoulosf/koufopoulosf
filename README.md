@@ -2,15 +2,11 @@
 
 ###
 
-<h3 align="left">🛠 My Toolkit</h3>
+<h3 align="left">🛠 My Toolkit:</h3>
 
 ###
 
-<h4 align="left">Using:</h4>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
@@ -36,11 +32,7 @@
 
 ###
 
-<h4 align="left">Exploring:</h4>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
@@ -66,7 +58,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">🔥 My Stats:</h3>
 
 ###
 
